@@ -24,8 +24,8 @@ pip install streamlit pandas scipy
 ## 🚀 Cómo ejecutar la app
 1. Clona este repositorio:
 
-git clone https://github.com/tu-usuario/nombre-repo.git
-cd nombre-repo
+git clone https://https://github.com/Eme48/streamlit_test/
+cd streamlit_test
 
 2. Ejecuta la aplicación con:
 
